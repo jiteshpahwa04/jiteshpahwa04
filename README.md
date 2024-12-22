@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Jitesh Pahwa</h1>
 <p>A Passionate Backend Developer Specializing in Scalable Systems, Problem Solving, and Full-Stack Technologies</p>
 <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" />
+![](https://giphy.com/embed/qgQUggAC3Pfv687qPC)
 <!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
